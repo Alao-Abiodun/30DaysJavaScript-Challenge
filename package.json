@@ -1,0 +1,19 @@
+{
+  "name": "30daysjavascript-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alao-Abiodun/30DaysJavaScript-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alao-Abiodun/30DaysJavaScript-Challenge/issues"
+  },
+  "homepage": "https://github.com/Alao-Abiodun/30DaysJavaScript-Challenge#readme"
+}
